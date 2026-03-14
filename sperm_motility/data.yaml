@@ -1,0 +1,5 @@
+train: sperm_motility_dataset/train/images
+val: sperm_motility_dataset/val/images
+
+nc: 1
+names: ['sperm']
