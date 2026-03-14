@@ -1,13 +1,13 @@
 # Sperm Motility
 
-This section explains how to use the **`sperm_motility_project`** folder.
+This section explains how to use the **`sperm_motility`** folder.
 
 ---
 
 # Project Structure
 
 ```
-sperm_motility_project
+sperm_motility
 │
 ├── data.yaml
 ├── requirements.txt
